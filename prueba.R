@@ -1,0 +1,1 @@
+datos<rnorm (1000)
